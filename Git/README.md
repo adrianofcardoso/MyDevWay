@@ -1,13 +1,13 @@
 # git init . / git remote add origin main
-Aqui armazeno todos os comandos principais que utilizo no dia a dia para versionamento de codigo
+Aqui armazeno todos os comandos principais que utilizo no dia a dia para versionamento de código.
 
 ## 📚 Documentação Python 
 - [Documentação Official Git](https://git-scm.com/docs/git)
 
-## Youtube 
+## ▶️ Youtube 
 - [Teo Me Why](https://www.youtube.com/@teomewhy)
 
-**COMANDOS GIT**
+## **COMANDOS GIT**
 
 - git remote add origin (link do repositorio) → Você cria um repositorio local apartir de um link do github
 - git clone (url) → Clona um repositorio

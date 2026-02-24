@@ -3,8 +3,9 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 
 ## 📚 Documentação Python 
 - [Documentação Official Python](https://docs.python.org/3/using/index.html)
-- [W3Schools](https://www.w3schools.com/python/)
+- [Documentação Python do W3Schools](https://www.w3schools.com/python/)
 
 ## Youtube 
  - Dados:
-    [Teo Me Why](https://www.youtube.com/@teomewhy)
+
+[Teo Me Why](https://www.youtube.com/@teomewhy)
