@@ -8,5 +8,6 @@ Este repositório tem como o objetivo armazenar toda a minha caminhada de aprend
 ## Youtube 
 
 - Assuntos Gerais:
-    [Guto Galego](https://www.youtube.com/@GutoGalego)
-    [Dev Magro](https://www.youtube.com/@devmagro)
+[Guto Galego](https://www.youtube.com/@GutoGalego)
+
+[Dev Magro](https://www.youtube.com/@devmagro)
