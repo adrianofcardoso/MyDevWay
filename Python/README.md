@@ -8,4 +8,4 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 ## Youtube 
  - Dados:
 
-[Teo Me Why](https://www.youtube.com/@teomewhy)
+[Teo Me Why](https://www.youtube.com/watch?v=OeKzVjiiRm4&list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D)

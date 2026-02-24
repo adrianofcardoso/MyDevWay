@@ -4,8 +4,8 @@ Aqui armazeno todos os comandos principais que utilizo no dia a dia para version
 ## 📚 Documentação Python 
 - [Documentação Official Git](https://git-scm.com/docs/git)
 
-## ▶️ Youtube 
-- [Teo Me Why](https://www.youtube.com/@teomewhy)
+## ▶️ Canais e Pyalists do Youtube Que Me Ajudaram
+- [Teo Me Why](https://www.youtube.com/watch?v=84FhNXNWoig&list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
 
 ## **COMANDOS GIT**
 
