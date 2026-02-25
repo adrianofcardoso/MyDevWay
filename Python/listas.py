@@ -28,3 +28,40 @@ Adriano[pos][len(lang) -1]
 
 Adriano[-1][2:5]
 Adriano[-1][5:]  # Acessa os elementos de índice 2 a 4 da segunda lista
+
+#%% Criando um contador de numeros em uma lista de numeros
+
+lista = [0,1,2,1,1,5,3,4,5,6,1,2,3,7,6,7,8,8,9,9]
+
+
+numero = int(input("Digite um numero para contar: "))
+numero = int(numero) 
+
+
+contador = 0 
+for i in lista:
+    if i == numero:
+        contador += 1
+
+print(f"O numero {numero} aparece {contador} vezes na lista.")
+
+#%% Trabalhando com adição de elementos em uma lista
+
+idades = []
+
+while True:
+    idade = input("Digite uma idade: ")
+    if idade == "":
+        break
+    idades.append(int(idade))
+
+media = sum(idades) / len(idades)
+minimo = min(idades)
+maximo = max(idades)
+qtde = len(idades)
+
+print (idades)
+print(f"Média: {media}")
+print(f"Mínimo: {minimo}") 
+print(f"Máximo: {maximo}")
+print(f"Quantidade: {qtde}")

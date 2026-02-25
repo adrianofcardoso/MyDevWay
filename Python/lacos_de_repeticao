@@ -1,0 +1,45 @@
+#%%
+count = 1
+numero = 2 
+
+while count <= 10:
+    print(numero, "X", count, "=", numero * count)
+    print(f"{numero} X {count} = {numero * count}")
+    count += 1
+
+
+'''
+Esse tipo de laço de repetição é conhecido como "laço de contagem" ou "laço de iteração", 
+onde o número de vezes que o laço será executado é conhecido antecipadamente. O python nao itera dessa forma
+i = 0
+
+for numero (i; i<= 10; i++){
+    print(numero)
+}
+
+para fazer em python tem que se utilizar o range() para criar uma sequência de números e iterar sobre eles usando um loop for.
+
+for i in range(1, 11):
+    print(f"{numero} X {i} = {numero * i}")
+'''
+
+#%%
+# Exemplo de um contador de divisores de um numero
+
+numero = 4
+count = 100
+
+while numero <=count:
+    resto = numero % 4
+    if resto == 0:
+        print(numero)
+    numero += 1
+
+'''
+Um contador só utilizado uma vez para a primeira comparação eu basicamente nao utilizo ele pras outras operações, caso eu queira
+fazer alguma comparação ou algo do tipo.
+
+Calcular divisor de um numero == resto 0
+'''
+
+# Terminar de ver aula: https://youtu.be/HcCH_xXwOcA?si=mrAIw2tgHnLnevVy&t=1461
