@@ -42,4 +42,14 @@ fazer alguma comparação ou algo do tipo.
 Calcular divisor de um numero == resto 0
 '''
 
-# Terminar de ver aula: https://youtu.be/HcCH_xXwOcA?si=mrAIw2tgHnLnevVy&t=1461
+#%% Soma 4 alturas que o usario insere
+
+soma = 0 
+qtde_altura = 4
+
+while qtde_altura > 0:
+    altura = float(input("Digite a altura: "))
+    soma += altura
+    qtde_altura -= 1
+
+print("A soma das alturas é:", soma)
