@@ -17,7 +17,8 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 ---
 
 ## Operadores Matématicos no Python:
-'''python
+
+```python
 *Básicos:*
 
 "+" -> Adição,
