@@ -19,6 +19,7 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 ## Operadores Matématicos no Python:
 
 ```python
+
 *Básicos:*
 
 "+" -> Adição,
@@ -51,8 +52,10 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 
 **= -> (Eleva à potência e atribui)
 
-Nota: Se você precisar de operações matemáticas mais complexas (como raiz quadrada, seno, cosseno, logaritmos, etc.), o Python possui um módulo nativo chamado math. Você não usa um operador simples para eles, mas sim importa a biblioteca usando import math.
-'''
+Nota: Se você precisar de operações matemáticas mais complexas (como raiz quadrada, seno, cosseno, logaritmos, etc.), o Python possui um módulo nativo chamado math. Você não usa um operador simples para eles, mas sim importa a biblioteca usando import math. 
+ 
+```
+
 
 ---
 
