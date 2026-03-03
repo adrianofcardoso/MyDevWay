@@ -35,6 +35,7 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 "**" -> Exponenciação
 
 *Atribuição Matemática:*
+
 += -> Soma e atribui (x +=5 isso é igual a x+5)
 
 -= -> Substrai e atribui
