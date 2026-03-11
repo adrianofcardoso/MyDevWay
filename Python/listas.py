@@ -1,3 +1,7 @@
+#%% Para separar o nome de sobrenome de uma string
+nome = "Adriano Cardoso"
+nome.split(" ")
+
 #%% Criando uma lista de idades
 idade = [18, 20, 22, 25, 30, 35, 40, 50]
 
@@ -65,3 +69,5 @@ print(f"Média: {media}")
 print(f"Mínimo: {minimo}") 
 print(f"Máximo: {maximo}")
 print(f"Quantidade: {qtde}")
+
+
