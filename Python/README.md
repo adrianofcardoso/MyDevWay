@@ -4,7 +4,7 @@ Aqui armazeno toda a minha base de aprendizagem (com o tempo irei atualizando e 
 ---
 
 ## 📚 Documentação Python 
-- [Documentação Official Python](https://docs.python.org/3/using/index.html)
+- [Documentação Official Python](https://docs.python.org/3/tutorial/index.html)
 - [Documentação Python do W3Schools](https://www.w3schools.com/python/)
 
 ---
