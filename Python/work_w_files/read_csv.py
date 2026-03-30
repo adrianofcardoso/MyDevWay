@@ -1,37 +1,37 @@
-import math 
+import math
 
 #%%
-archive = "data.csv"
+csv_filename = "data.csv"
 
-with open(archive) as open_file:
+with open(csv_filename) as open_file:
     cabecalho = open_file.readlines()
     for lines in cabecalho:
         print(lines)
 
 #%%
-dados = dict()
+csv_data_dict = dict()
 
 chaves = cabecalho[0].strip("\n").split(";")
-for c in chaves:
-    dados[c] = []
+for column_name in chaves:
+    csv_data_dict[column_name] = []
 
 for lines in cabecalho[1:]:
 
     elementos = lines.strip("\n").split(";")
     
-    for i in range(len(elementos)):
+    for element_index in range(len(elementos)):
 
-        dados[chaves[i]].append(elementos[i])
+        csv_data_dict[chaves[element_index]].append(elementos[element_index])
 
 #forma pytonica de fazer o mesmo processo acima
-idades = [int(i) for i in dados["idade"]]
+idades = [int(i) for i in csv_data_dict["idade"]]
 media = sum(idades) / len(idades)
 media
 
 #%%
 '''
 idades = []
-for i in dados["idade"]:
+for i in csv_data_dict["idade"]:
     idades.append(int(i))
 
 media = sum(idades) / len(idades)
