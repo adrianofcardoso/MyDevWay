@@ -13,8 +13,8 @@ print("Média das idades:", sum(idade) / len(idade))  # Média das idades
 
 #%% Listar lista dentro de outra lista
 
-Adriano = ["Adriano", 
-           30, 
+person_profile = ["Adriano",
+           30,
            "Engenheiro",
            ["Python", "Java", "C++", "C#", "JavaScript"]]
 
@@ -23,15 +23,15 @@ Erro cometido:
 eu coloquei na posição 0 da lista mas na verdade se eu quero acessa a lista de lista
 eu preciso colocar a posição da segunda lista e depois a posição do elemento dentro da segunda lista
 '''
-Adriano[3][-1]  # Acessa o nome e o primeiro elemento da segunda lista
+person_profile[3][-1]  # Acessa o nome e o primeiro elemento da segunda lista
 
-tamanho = len(Adriano)
-pos = tamanho -1
-lang = Adriano[pos]
-Adriano[pos][len(lang) -1]
+tamanho = len(person_profile)
+last_index = tamanho - 1
+programming_languages = person_profile[last_index]
+person_profile[last_index][len(programming_languages) - 1]
 
-Adriano[-1][2:5]
-Adriano[-1][5:]  # Acessa os elementos de índice 2 a 4 da segunda lista
+person_profile[-1][2:5]
+person_profile[-1][5:]  # Acessa os elementos de índice 2 a 4 da segunda lista
 
 #%% Criando um contador de numeros em uma lista de numeros
 
@@ -62,12 +62,12 @@ while True:
 media = sum(idades) / len(idades)
 minimo = min(idades)
 maximo = max(idades)
-qtde = len(idades)
+age_count = len(idades)
 
 print (idades)
 print(f"Média: {media}")
-print(f"Mínimo: {minimo}") 
+print(f"Mínimo: {minimo}")
 print(f"Máximo: {maximo}")
-print(f"Quantidade: {qtde}")
+print(f"Quantidade: {age_count}")
 
 
